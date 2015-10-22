@@ -1,0 +1,3 @@
+¿Qué es RVM?
+  Es una plataforma diseñada para gestionar múltiples instalaciones de Ruby
+  en un mismo dispositivo.
