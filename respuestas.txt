@@ -1,3 +1,12 @@
 ¿Qué es RVM?
+
   Es una plataforma diseñada para gestionar múltiples instalaciones de Ruby
   en un mismo dispositivo.
+
+¿Cuáles son las diferencias entre la ejeución del programa "Hola Mundo"
+con el intérprete de Ruby (ruby helloWorld.rb) y el intérprete interactivo
+del ejercicio anterior?
+
+  El intérprete de Ruby muestra la salida del programa directamente, mientras
+  que el intérprete interactivo toma el código del programa como una entrada
+  escrita a mano y muestra los pasos intermedios.
