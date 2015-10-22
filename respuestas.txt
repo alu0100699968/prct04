@@ -10,3 +10,10 @@ del ejercicio anterior?
   El intérprete de Ruby muestra la salida del programa directamente, mientras
   que el intérprete interactivo toma el código del programa como una entrada
   escrita a mano y muestra los pasos intermedios.
+
+¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo"
+con el intérprete interactivo y con pry?
+
+  La salida de pry es igual a la del intérprete normal de ruby, mientras que
+  la salida del intérprete interactivo muestra los pasos intermedios y toma
+  el código del programa como una entrada al intérprete.
